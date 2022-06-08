@@ -2,8 +2,6 @@
 
 ---
 
-**About Me:**
-
 - 🌐 I am an open source developer from India 🇮🇳
 - 🎓 I’m a computer science student
 - 🔭 I’m currently working with python
