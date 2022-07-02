@@ -7,7 +7,7 @@
 - 🔭 I’m currently working with python
 - 🌱 I’m currently learning more programming languages and tools
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am a school student
+- ⚡ Fun fact: I am a higher secondary student
 
 ---
 
