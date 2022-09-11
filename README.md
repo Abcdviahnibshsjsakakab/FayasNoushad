@@ -11,6 +11,6 @@
 
 ---
 
-<samp>&nbsp; [Website](https://fayasnoushad.github.io) | [Twitter](https://twitter.com/FayasNoushad) | [Telegram](https://telegram.me/FayasNoushad) | [LinkedIn](https://www.linkedin.com/in/fayasnoushad)</samp>
+<samp>&nbsp; [Website](https://fayasnoushad.github.io) | [Twitter](https://twitter.com/FayasNoushad) | [Telegram](https://telegram.me/FayasNoushad) | [LinkedIn](https://www.linkedin.com/in/fayasnoushad) | [Instagram](https://www.instagram.com/FayasNoushad/) </samp>
 
 ---
